@@ -98,7 +98,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Github Stats  
 <div align="center">
-<a href="https://github.com/torkamanmahdi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=torkamanmahdi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/torkamanmahdi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torkamanmahdi&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/torkamanmahdi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=torkamanmahdi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a>
 </div>  
 
 <br/>  
