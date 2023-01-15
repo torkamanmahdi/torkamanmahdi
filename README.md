@@ -95,18 +95,6 @@ You can click the Preview link to take a look at your changes.
 
 <br/>  
 
-
-## Github Stats  
-<div align="center">
-<a href="https://github.com/torkamanmahdi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=torkamanmahdi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a>
-</div>  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=torkamanmahdi&&style=flat-square" align="center" />
 </div>  
