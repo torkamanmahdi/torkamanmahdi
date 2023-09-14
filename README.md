@@ -69,15 +69,4 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-<br />
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torkamanmahdi)](https://github.com/torkamanmahdi)
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=torkamanmahdi&&style=flat-square" align="center" />
-</div>  
   
