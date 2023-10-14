@@ -62,3 +62,12 @@
 ### 🎚️ My Stats 
 
 ![torkamanmahdi github stats](https://github-readme-stats.vercel.app/api?username=torkamanmahdi&show_icons=true&hide_border=false&theme=cobalt)
+
+
+
+
+
+
+[![torkamanmahdi GitHub stats](https://github-readme-stats.vercel.app/api?username=mahditorkaman&count_private=true)](https://github.com/torkamanmahdi/github-readme-stats)
+
+[![torkamanmahdi Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torkamanmahdi)](https://github.com/torkamanmahdi/github-readme-stats)
