@@ -1,19 +1,3 @@
-
-### <div align="center">I'm Mahdi Torkaman, a full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Secret Project](#)  
-  
-
-- 🌱 I’m currently learning more and more
-  
-
-- ⚡ Fun fact: I use tabs over spaces
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr>
 <td valign="top" width="33%">
@@ -70,3 +54,11 @@
 </a>  
 </div>  
   
+![Visitor Count](https://profile-counter.glitch.me/{torkamanmahdi}/count.svg)
+
+### 🐍 My Top Langs 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=torkamanmahdi&theme=cobalt)](https://github.com/torkamanmahdi/github-readme-stats)
+
+### 🎚️ My Stats 
+
+![torkamanmahdi github stats](https://github-readme-stats.vercel.app/api?username=torkamanmahdi&show_icons=true&hide_border=false&theme=cobalt)
