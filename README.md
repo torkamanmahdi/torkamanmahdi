@@ -56,14 +56,3 @@
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>  
 </div>  
-
-
-![Visitor Count](https://profile-counter.glitch.me/{torkamanmahdi}/count.svg)
-
-
-### 🐍 My Top Langs 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=torkamanmahdi&theme=cobalt)](https://github.com/torkamanmahdi/github-readme-stats)
-
-
-### 🎚️ My Stats 
-![torkamanmahdi github stats](https://github-readme-stats.vercel.app/api?username=torkamanmahdi&show_icons=true&hide_border=false&theme=cobalt)
