@@ -4,12 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Over a decade ago, I embarked on my programming journey diving into C++. While exploring, I swiftly transitioned to web development, honing my skills in PHP. From there, my journey expanded to encompass languages like JavaScript, Python, and more.
-
-* 🌍  I'm based in Tehran, Iran
-* 🖥️  See my portfolio at [Website](http://mahditorkaman.com)
-* ✉️  You can contact me at [im@MahdiTorkaman.com](mailto:im@MahdiTorkaman.com)
-
 <a href="https://www.github.com/torkamanmahdi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/torkamanmahdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
